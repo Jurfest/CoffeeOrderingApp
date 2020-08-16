@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Jurfest Apps Logo" src="./assets/logo.png" width="250px"/>
+  <img alt="Jurfest Apps Logo" src="./CoffeeOrderingApp/Assets.xcassets/logo.imageset/logo.png" width="250px"/>
     <br>
 </h1>
 
@@ -39,10 +39,10 @@ SwiftUI application, my result following a section of the course Declarative Int
 ### Preview
 
 <h1 align="center">
-    <img alt="" src="./assets/home.png" width="940px"/>
+    <img alt="" src="./CoffeeOrderingApp/Assets.xcassets/orderList.imageset/orderList.png" width="940px"/>
 </h1>
 <h1 align="center">
-    <img alt="" src="./assets/products.png" width="940px"/>
+    <img alt="" src="./CoffeeOrderingApp/Assets.xcassets/addOrder.imageset/addOrder.png" width="940px"/>
 </h1>
 
 ### Acknowledgment
