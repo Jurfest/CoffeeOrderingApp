@@ -55,6 +55,7 @@ struct AddCoffeeOrderView: View {
                     .foregroundColor(Color.white)
                 .background(Color(red: 46/255, green: 204/255, blue: 113/255))
                 .cornerRadius(10)
+                    .padding(.bottom)
                 
             }
             
