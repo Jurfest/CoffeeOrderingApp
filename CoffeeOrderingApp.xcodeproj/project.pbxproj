@@ -22,6 +22,7 @@
 		3D940AE124E89D2300AC9030 /* AddCoffeeOrderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D940AE024E89D2300AC9030 /* AddCoffeeOrderViewModel.swift */; };
 		3D940AE324E89ED700AC9030 /* CoffeeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D940AE224E89ED700AC9030 /* CoffeeViewModel.swift */; };
 		3D940AE524E8A43C00AC9030 /* AddCoffeeOrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D940AE424E8A43C00AC9030 /* AddCoffeeOrderView.swift */; };
+		3D940AE724E8B1EB00AC9030 /* OrderTotalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D940AE624E8B1EB00AC9030 /* OrderTotalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		3D940AE024E89D2300AC9030 /* AddCoffeeOrderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoffeeOrderViewModel.swift; sourceTree = "<group>"; };
 		3D940AE224E89ED700AC9030 /* CoffeeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeViewModel.swift; sourceTree = "<group>"; };
 		3D940AE424E8A43C00AC9030 /* AddCoffeeOrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoffeeOrderView.swift; sourceTree = "<group>"; };
+		3D940AE624E8B1EB00AC9030 /* OrderTotalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTotalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				3D940ABE24E75E7B00AC9030 /* ContentView.swift */,
 				3D940ADC24E8758700AC9030 /* OrderListView.swift */,
 				3D940AE424E8A43C00AC9030 /* AddCoffeeOrderView.swift */,
+				3D940AE624E8B1EB00AC9030 /* OrderTotalView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				3D940ADF24E8970600AC9030 /* CreateOrderResponse.swift in Sources */,
 				3D940AE524E8A43C00AC9030 /* AddCoffeeOrderView.swift in Sources */,
 				3D940ABD24E75E7B00AC9030 /* SceneDelegate.swift in Sources */,
+				3D940AE724E8B1EB00AC9030 /* OrderTotalView.swift in Sources */,
 				3D940AD724E765D700AC9030 /* Webservice.swift in Sources */,
 				3D940AE324E89ED700AC9030 /* CoffeeViewModel.swift in Sources */,
 				3D940AD424E764A700AC9030 /* Order.swift in Sources */,
