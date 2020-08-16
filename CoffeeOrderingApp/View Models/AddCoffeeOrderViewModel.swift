@@ -8,7 +8,7 @@
 
 import Foundation
 
-class addCoffeOrderViewModel: ObservableObject {
+class AddCoffeeOrderViewModel: ObservableObject {
     
     var name: String = ""
     @Published var size: String = "Medium"
